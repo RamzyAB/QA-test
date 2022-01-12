@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Pre requisit](#pre-requisite)
+* [Pre requisite](#pre-requisite)
 * [Getting started](#getting-started)
 
 ## General info
