@@ -3,8 +3,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Notes](#notes)
+* [Pre requisit](#pre-requisite)
+* [Getting started](#getting-started)
 
 ## General info
 This project run automated tests on https://deliveroo.co.uk/
