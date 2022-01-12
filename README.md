@@ -23,4 +23,4 @@ Project is created with:
 # Getting started
 * git clone <_repo_>
 * From command line go to repo type: **mvn clean test**
-* After execution, go to **target > extent-reports > TravelsTestReport.html**
+* After execution, go to **target > surefire-reports/> emailable-report.html**
